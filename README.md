@@ -24,3 +24,6 @@ Os dados foram extraídos dos jogos eletrônicos da série Pokémon, com exceç�
 - 4ª Geração: Pokémon Diamond, Pearl e Platinum (2006)
 - 5ª Geração: Pokémon Black, White e Black 2 White 2 (2010)
 - 6ª Geração: Pokémon X, Y e Omega Ruby e Alpha Sapphire (2013)
+
+### Referências
+LISTA de Pokémons. [S. l.], 18 maio 2023. Disponível em: https://referenciabibliografica.net/a/pt-br/ref/abnt. Acesso em: 21 maio 2023.
