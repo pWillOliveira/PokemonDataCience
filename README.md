@@ -2,12 +2,13 @@
 - Universidade Nove de Julho - UNINOVE
 
 ### Alunos:
--
--
--
--
--
--
+- Amanda Ceciliano da Silva -   RA: 2222105714
+- Arthur Oliveira Gonçalves -   RA: 2222104847
+- Gabriel Alves da Silva    -   RA: 2222105223
+- Kayke
+- Matheus Soares Nascimento -   RA: 2222105619
+- Sabrina
+- William Paiva de Oliveira -   RA: 2222105272
 
 ### Orientadores:
 - Professor Edson M. de Souza
