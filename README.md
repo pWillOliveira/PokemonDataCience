@@ -15,7 +15,7 @@
 - Professor Adriano M. Schroeder
 
 ### Link para Leitura do Projeto no Google Colab
-https://colab.research.google.com/drive/1XGiPoSf6QXbRQixdNoiWAbsHa7vEfHs6?usp=sharing
+https://colab.research.google.com/drive/1MTyM8hmNG25OxsTWvQfOSlk5vuGfSvNt?usp=sharing
 
 ### Conteúdo do Projeto:
 
