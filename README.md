@@ -2,13 +2,13 @@
 - Universidade Nove de Julho - UNINOVE
 
 ### Alunos:
-- Amanda Ceciliano da Silva -   RA: 2222105714
-- Arthur Oliveira Gonçalves -   RA: 2222104847
-- Gabriel Alves da Silva    -   RA: 2222105223
+- RA: 2222105714 - Amanda Ceciliano da Silva
+- RA: 2222104847 - Arthur Oliveira Gonçalves
+- RA: 2222105223 - Gabriel Alves da Silva
 - Kayke
-- Matheus Soares Nascimento -   RA: 2222105619
+- RA: 2222105619 - Matheus Soares Nascimento
 - Sabrina
-- William Paiva de Oliveira -   RA: 2222105272
+- RA: 2222105272 - William Paiva de Oliveira
 
 ### Orientadores:
 - Professor Edson M. de Souza
@@ -29,5 +29,6 @@ Os dados foram extraídos dos jogos eletrônicos da série Pokémon, com exceç�
 - 5ª Geração: Pokémon Black, White e Black 2 White 2 (2010)
 - 6ª Geração: Pokémon X, Y e Omega Ruby e Alpha Sapphire (2013)
 
+### Considerações Finais
+
 ### Referências
-LISTA de Pokémons. [S. l.], 18 maio 2023. Disponível em: https://referenciabibliografica.net/a/pt-br/ref/abnt. Acesso em: 21 maio 2023.
