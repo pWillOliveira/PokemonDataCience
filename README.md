@@ -5,9 +5,9 @@
 - RA: 2222105714 - Amanda Ceciliano da Silva
 - RA: 2222104847 - Arthur Oliveira Gonçalves
 - RA: 2222105223 - Gabriel Alves da Silva
-- Kayke
+- RA: 2222104749 - Kayke Alberto Souza dos Santos
 - RA: 2222105619 - Matheus Soares Nascimento
-- Sabrina
+- RA: 2222104865 - Sabrina Sales Machado
 - RA: 2222105272 - William Paiva de Oliveira
 
 ### Orientadores:
