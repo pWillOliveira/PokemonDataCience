@@ -31,4 +31,20 @@ Os dados foram extraídos dos jogos eletrônicos da série Pokémon, com exceç�
 
 ### Considerações Finais
 
+Com base nos dados analisados podemos concluir que:
+- A 5ª Geração foi a que trouxe um maior número de novos Pokémons, 156 no total. Ficando a frente da 1ª Geração com 151 Pokémons;
+- Foram lançados um total de 46 Pokémons lendários desde a 1ª Geração;
+- São 18 os tipos de Pokémon, e os do tipo Água são os mais numerosos, contabilizando 118 Pokémons e representando 10.93% do total.
+- Pokémons do tipo Gelo são os menos numerosos com um total de 33 Pokémons, representando 3.06% do total.
+- Pokémons do Tipo Dragão possuem maiores médias de Ataque e HP (Pontos de Vida);
+- Pokémons do Tipo Aço possuem maiores médias de Defesa;
+- Pokémons do Tipo Voador possuem maiores médias de Velocidade;
+- Com base nos dados, a melhor combinação de tipos de Pokémon para se obter atributos mais altos de Velocidade, Defesa , HP e Ataque seria do tipo Aço / Dragão;
+- Neste dataset o Pokémon Dialga é o único que possuí ambos os tipos Aço / Dragão.
+
+Aplicando correlação entre os dados e observando os gráficos com linha de tendência para determinar se existe uma relação estatisticamente significativa entre duas ou mais variáveis, foi possível analisar que:
+- Existe uma relação positiva entre HP (Pontos de Vida) e Defesa dos Pokémons, ou seja, quanto maior for o HP, o atributo de Defesa também tende a ser maior.
+- Os gráficos sugerem que quanto maior a Velocidade do Pokémon, mais alto é o seu Ataque. Portanto, os Pokémons com altas Velocidades tendem a ter níveis de Ataque mais elevados.
+- Podemos concluir que a velocidade não tem tanta influência quanto a defesa no desempenho dos Pokémons. Ou seja, Pokémons com Defesa alta podem ter valores baixos de Velocidade.
+
 ### Referências
