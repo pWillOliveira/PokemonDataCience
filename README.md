@@ -48,3 +48,19 @@ Aplicando correlação entre os dados e observando os gráficos com linha de ten
 - Podemos concluir que a velocidade não tem tanta influência quanto a defesa no desempenho dos Pokémons. Ou seja, Pokémons com Defesa alta podem ter valores baixos de Velocidade.
 
 ### Referências
+```
+MATPLOTLIB uma biblioteca Python para gerar gráficos interessantes. [S. l.]: Yuri Matheus, 27 nov. 2018.
+Disponível em: https://www.alura.com.br/artigos/criando-graficos-no-python-com-a-matplotlib. Acesso em: 31 maio 2023.
+
+ENTENDENDO a biblioteca NumPy. [S. l.]: Luiz Santiago Jr., 30 ago. 2018. 
+Disponível em: https://medium.com/ensina-ai/entendendo-a-biblioteca-numpy-4858fde63355. Acesso em: 31 maio 2023.
+
+POKEMON with stats. [S. l.]: ALBERTO BARRADAS, 2016. 
+Disponível em: https://www.kaggle.com/datasets/abcsds/pokemon. Acesso em: 31 maio 2023.
+
+LISTA de Pokémon. [S. l.], 18 maio 2023. 
+Disponível em: https://pt.wikipedia.org/wiki/Lista_de_Pok%C3%A9mon. Acesso em: 31 maio 2023.
+
+POKÉMON (série de jogos eletrônicos). [S. l.], 1 mar. 2023. 
+Disponível em: https://pt.wikipedia.org/wiki/Pok%C3%A9mon_(s%C3%A9rie_de_jogos_eletr%C3%B4nicos). Acesso em: 31 maio 2023.
+```
